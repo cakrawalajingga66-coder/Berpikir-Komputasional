@@ -1,0 +1,7 @@
+{
+  "name": "Pembelajaran Daring Informatika Kelas X",
+  "description": "Media pembelajaran interaktif Berpikir Komputasional dan Struktur Data (Searching, Sorting, Stack, Queue) untuk Kelas X SMA Negeri 1 Tenggarong Seberang oleh Yunyta Kartika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
